@@ -1,5 +1,3 @@
-
-
 const HomePage = () => {
   return <p>Hello World</p>;
 }
